@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pdb
